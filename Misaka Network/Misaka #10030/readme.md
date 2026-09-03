@@ -10,7 +10,7 @@ Date: Aug 28 2026
 
 The old version of Misaka RailGun before the official launch on the Steam Workshop with tempoary solution for rendering beam issue and other things was added by Westen
 
-Fun fact: Westen (Backup Programmer #1) and I stayed up until 1 AM before the official launch on the Steam Workshop, working together in a Discord call until he was able to provide a temporary solution. What a legend! My main programmer wasn't available due to personal reasons at the time.
+**Fun fact:** Westen (Backup Programmer #1) and I stayed up until 1 AM before the official launch on the Steam Workshop, working together in a Discord call until he was able to provide a temporary solution. What a legend! My main programmer wasn't available due to personal reasons at the time.
 
 
 Unique ConVars Included

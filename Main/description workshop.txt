@@ -87,7 +87,7 @@ And many more to come!
 ━━━━
  [h1]GitHub (MIT License) [/h1] 
 [url=https://github.com/R01XIceFrost/Misaka-RailGun-Player-SWEP-Customizable-WIP-] GitHub [/url] 
-[url=https://steamcommunity.com/workshop/filedetails/?id=3794123406] Misaka Network Workshop Collection[/url] (Containing all Misaka versions) 
+[url=https://steamcommunity.com/workshop/filedetails/?id=3795125231] Misaka Network Workshop Collection[/url] (Containing all Misaka versions) 
 
 Misaka #9982 — Early build of the original base SWEP
 Misaka #10030 — [b]The old version of Misaka RailGun SWEP with temporary solutions for beam rendering and other issues, before the official Steam Workshop launch

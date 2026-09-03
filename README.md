@@ -22,3 +22,8 @@ Backup Programmer #2:
 **Mr. Sandbox** (Ex-Developer — GMod DayZ XMP 2015; Developer — Team Overhaul Fallout Decay 2025/2026, aka PostNukeRP 2010–2011) |R-0-1-X|Ice Frost's best friend.
 
 **|R-0-1-X|Ice Frost (Commissioner / Project Lead Misaka RailGun【Player SWEP】Customizable, Ponder Supported & Head of GMOD Engineer Academy)**
+
+
+# Mod made by Humans
+I refuse to use A.I or generative A.I, I spent years learning how to code by cheer passion, And even though my Code isn't perfect, I'll keep writing my own code and making my own mods by hand. 
+**-- Dragonred, Original Base SWEP Author**

@@ -87,14 +87,12 @@ And many more to come!
 ━━━━
  [h1]GitHub (MIT License) [/h1] 
 The GitHub repository will be uploaded and the Misaka Network (containing all Misaka versions) Workshop Collection will be published at a later date.
-
 [url=https://github.com/R01XIceFrost/Misaka-RailGun-Player-SWEP-Customizable-WIP-] GitHub [/url] 
-
  [url=https://steamcommunity.com/workshop/filedetails/?id=3794123406] Misaka Network Workshop Collection  [/url] 
 
-
 Misaka #9982 — Early build of the original base SWEP
-Misaka #10030 — [b]The old version of Misaka RailGun SWEP with temporary solution for beam rendering and other issues during first day release [/b]
+Misaka #10030 — [b]The old version of Misaka RailGun SWEP, temporary solution for beam rendering and other issues before the official Steam Workshop launch.
+[/b]
 
 Misaka #10032 — CANARY VERSION & FUTURE COLLABORATIONS (early build of the original base SWEP)
 [img]https://media1.tenor.com/m/QWtP0NLSa6UAAAAd/toaru-majutsu-no-index-rock-paper-scissors.gif[/img]

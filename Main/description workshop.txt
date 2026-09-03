@@ -1,0 +1,125 @@
+[img]https://media1.tenor.com/m/fk3ZNWLimxUAAAAd/eletric.gif[/img]
+[h1] THIS MOD WAS COMMISSIONED BY |R-0-1-X|Ice Frost[/h1] 
+[b]Note: Since it's a Commissioned Mod, Changes and Requests will only be Added if the Commissioner Requests them into the mod. - Dragonred[/b]
+━━━━
+[h2] | Credits | [/h2] 
+
+[b]Dragonred[/b]
+Special thanks to Dragonred [b](Coder/SWEP UI/SWEP VSFXs)[/b]
+for building this base SWEP from scratch and bringing my fantasy anime weapon concept to life as a GMOD SWEP, despite my vague ideas, suggestions, and instructions.
+
+[b]KuroSun[/b]
+Special thanks to KuroSun for allowing us to use his
+coin model & weapon animation (Gen 1).
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=658614202] Railgun LEVEL5 (Gen 1) Workshop[/url] 
+
+Backup Programmer #1:
+[b]Westen[/b] (Ex-Developer — Fallout Exodus 2023 / Fallout Decay; Current Developer — Overhaul Fallout Decay 2026) |R-0-1-X|Ice Frost's homie 
+Note: Special thanks to Westen for fixing beam rendering issue [b](temporary solution) [/b], adding KuroSun's flipping coin animation on the base swep
+and other things before the official launch on the Steam Workshop
+
+Backup Programmer #2: 
+[b]Mr. Sandbox [/b] (Ex-Developer — GMod DayZ XMP 2015; Developer — Team Overhaul Fallout Decay 2025/2026, aka PostNukeRP 2010–2011) |R-0-1-X|Ice Frost's best friend.
+
+[b]|R-0-1-X|Ice Frost (Commissioner / Project Lead Misaka RailGun【Player SWEP】Customizable, Ponder Supported & [url=https://github.com/R01XIceFrost/GMOD-Engineer-Academy-The-Machinist-s-Sanctuary]Head of GMOD Engineer Academy[/url]) 
+[/b]
+
+[h2]Server ConVars[/h2]
+━━━━
+
+[b]*I highly recommend installing [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404950276]Ponder - In Game Tutorial System API[/url] for a smoother, less painful ConVar experience! 
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3785541403]My Ponder Tutorial[/url] includes quick reference default ConVar values, instructions for changing the Beam, O-Ring, Electric Arcs texture, and a Memory Aid that automatically prints all commands, just copy, paste, and customize![/b]
+
+=== Primary ===
+1. d_misakarailgun_timetofullycharge
+2. d_misakarailgun_maximumblastdurationinseconds
+3. d_misakarailgun_timeforbeamtofullyextend
+4. d_misakarailgun_maximumbeamdistance
+5. d_misakarailgun_beam_width_min
+6. d_misakarailgun_beam_width_max
+============
+
+=== Beams ===
+1. d_misakarailgun_visuals_beam_texture
+2. d_misakarailgun_visuals_beam_color_r
+3. d_misakarailgun_visuals_beam_color_b
+4. d_misakarailgun_visuals_beam_color_g
+============
+
+=== O Ring Effect Visuals ===
+1. d_misakarailgun_visuals_ring_texture 
+2. d_misakarailgun_visuals_ring_color_r
+3. d_misakarailgun_visuals_ring_color_g
+4. d_misakarailgun_visuals_ring_color_b
+============
+
+=== Thunde Visuals ===
+1. d_misakarailgun_visuals_thunderbeams_maxthickness
+2. d_misakarailgun_visuals_thunderbeams_timetoreachfullthickness
+3. d_misakarailgun_visuals_thunderbeams_color_r
+4. d_misakarailgun_visuals_thunderbeams_color_g
+5. d_misakarailgun_visuals_thunderbeams_color_b
+6. d_misakarailgun_visuals_thunderbeams_fade_in_time
+7. d_misakarailgun_visuals_thunderbeams_fade_out_time
+8. d_misakarailgun_visuals_thunderbeams_texture
+━━━━
+[h1]Grand Plans for Misaka RailGun【Player SWEP】Customizable[/h1]
+Grand Plans for Misaka RailGun【Player SWEP】Customizable by |R-0-1-X|Ice Frost
+
+[b]ONLY FOR MISAKA #10032 CANARY VERSION & FUTURE COLLABS — OPEN TO CONTRIBUTORS (OUT OF PASSION OR FOR A REASONABLE SERVICE FEE), unless approved by me to roll out on the original Misaka! [/b]
+
+Beam Variations for Misaka RailGun Spin-Offs — future suggestions in the discussion thread
+
+Blender — rework the viewmodel (hand/weapon model), Add multiple variations for the reload/charge and primary/secondary attack animations (e.g flip coin → catch coin from the side view → charge up → fire; quick shots?) & other fine details ?
+
+ARC9 Weapon Base — different loadouts & personalized hands?
+
+3D Particle System — fancier visuals, or learn the traditional Source Particle Editor (PCF)?
+
+[b]Personalized Derma/VGUI panel for ConVars — learn Derma/VGUI and use a paid editor if the command list becomes too long or the mod becomes popular![/b]
+
+[wOS] DynaBase — Dynamic Animation Manager — recreate Misaka's anime-style mannerisms and movements in third person ?
+
+And many more to come! 
+
+[b]**If you're interested in collaborating with me, leave a comment in the “COLLABS” section of the discussion thread, Grand Plans for Misaka RailGun【Player SWEP】, and on my Steam profile as well. Please include a description of your specialty, skills, and what you can bring to the table. I’ll review your offer and consider your services, whether for a passion-based collaboration or a paid commission.[/b]
+
+━━━━
+ [h1]GitHub (MIT License) [/h1] 
+The GitHub repository will be uploaded and the Misaka Network (containing all Misaka versions) Workshop Collection will be published at a later date.
+
+[url=https://github.com/R01XIceFrost/Misaka-RailGun-Player-SWEP-Customizable-WIP-] GitHub [/url] 
+
+ [url=https://steamcommunity.com/workshop/filedetails/?id=3794123406] Misaka Network Workshop Collection  [/url] 
+
+
+Misaka #9982 — Early build of the original base SWEP
+Misaka #10030 — [b]The old version of Misaka RailGun SWEP with temporary solution for beam rendering and other issues during first day release [/b]
+
+Misaka #10032 — CANARY VERSION & FUTURE COLLABORATIONS (early build of the original base SWEP)
+[img]https://media1.tenor.com/m/QWtP0NLSa6UAAAAd/toaru-majutsu-no-index-rock-paper-scissors.gif[/img]
+
+━━━━
+[h1] |R-0-1-X|Ice Frost's Other Works[/h1] 
+
+[url=https://github.com/R01XIceFrost/GMOD-Engineer-Academy-The-Machinist-s-Sanctuary]GMOD Engineer Academy: Machinist's Sanctuary GitHub[/url]
+
+1. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3777069435]JMod: Unofficial Ponder Tutorials (WIP)[/url]
+2. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3776769815]ACE: Unofficial Ponder Tutorials (WIP)[/url]
+3. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3605144537]2013 RWBY E2 Weapons Pack #1 [REPAIRED] by AlternateAlix1723[/url]
+4. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3608868633]Wiremod | ACF | ACE – Documentation Engineer Style by |R-0-1-X|Ice Frost[/url]
+5. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3768055632]Ice Frost's Toolbox: Hardcore Builder Picks (2026)[/url]
+
+[b]PONDER TUTORIAL COMMISSIONS ARE OPEN![/b]
+For more info head over to my Misaka RailGun【Player SWEP】Ponder Support addon.
+━━━━
+
+[h1] Mod made by Humans [/h1] 
+I refuse to use A.I or generative A.I, I spent years learning how to code by cheer passion, And even though my Code isn't perfect, I'll keep writing my own code and making my own mods by hand. 
+-- Dragonred, [b]Original Base SWEP Author[/b]
+━━━━
+
+[h1]Support or Commission me (Dragonred)[/h1]
+Thanks for reading all of this, If you can and would like to support me, or would like to discuss a Commission, it would be VERY appreciated, even 2$ Helps me a TON:
+[b]Kofi:[/b]
+https://ko-fi.com/dragon_red

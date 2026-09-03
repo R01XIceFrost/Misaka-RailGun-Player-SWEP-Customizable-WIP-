@@ -3,7 +3,7 @@
 | Credits |
 
 **Dragonred**
-Special thanks to Dragonred (Coder/SWEP UI/SWEP VSFXs)
+Special thanks to Dragonred **(Coder/SWEP UI/SWEP VSFXs)**
 for building this base SWEP from scratch and bringing my fantasy anime weapon concept to life as a GMOD SWEP, despite my vague ideas, suggestions, and instructions.
 
 **KuroSun**

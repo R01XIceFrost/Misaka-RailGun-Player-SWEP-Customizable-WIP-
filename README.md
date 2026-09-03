@@ -12,6 +12,7 @@ coin model & weapon animation (Gen 1).
 Railgun LEVEL5 (Gen 1) Workshop
 
 Backup Programmer #1:
+
 **Westen** (Ex-Developer — Fallout Exodus 2023 / Fallout Decay; Current Developer — Overhaul Fallout Decay 2026) |R-0-1-X|Ice Frost's homie
 Note: Special thanks to Westen for fixing beam rendering issue (temporary solution) , adding KuroSun's flipping coin animation on the base swep
 and other things before the official launch on the Steam Workshop

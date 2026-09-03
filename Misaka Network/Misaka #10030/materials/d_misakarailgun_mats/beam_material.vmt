@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+    "$basetexture" "d_misakarailgun_mats/beam_material"
+    "$translucent" "1"
+    "$additive" "1"
+    "$vertexalpha" "1"
+    "$vertexcolor" "1"
+    "$nocull" "1"
+}

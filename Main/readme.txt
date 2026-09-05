@@ -47,14 +47,14 @@ Any bug reports would be greatly appreciated!
 P.S. Please report them in the BUG REPORTS discussion thread.
 Thank you!
 
-
+==========================================================================================================================================================================================
 Update: 29 Aug @ 1:27am
 by |R-0-1-X|Ice Frost
 1. Tales of Berseria Eizen Flip Coin Sound — replaced the old sound to avoid making my Misaka RailGun【Player SWEP】Customizable a 1:1 copy of Railgun LEVEL5 (KuroSun's) on the workshop and give it its own identity.
 
 Note: In the future, I'll start studying Blender with the goal of eventually reworking KuroSun's weapon animation myself, or I'll hire someone experienced in this kind of work.
 
-
+==========================================================================================================================================================================================
 Update: 28 Aug @ 2:26am
 by |R-0-1-X|Ice Frost
 Special thanks to Westen for fixing rendering issue (temporary solution), adding KuroSun's flipping coin animation and other things on the base swep before the official launch on the Steam Workshop.
